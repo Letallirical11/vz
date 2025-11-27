@@ -22,7 +22,7 @@
   "update": {
     "version": "1.0.1",
     "required": false,
-    "notify": true,
+    "notify": false,
     "url": "https://github.com/Letallirical11/vz/archive/refs/heads/main.zip",
     "notes": "Nueva versión del VZ Generator con API Numlookupapi y auto-update."
   }
