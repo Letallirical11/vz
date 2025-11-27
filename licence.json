@@ -1,0 +1,29 @@
+{
+  "licenses": {
+    "e82ecb2c9ea62fd55432efac2635623d5f20ac6371b8e1af38f0d7c38f84a38f": {
+      "name": "Letalsoft Admin",
+      "expiry": "2030-12-31",
+      "active": true,
+      "assigned_balance": 100.0
+    },
+    "d57d4cac2cca16e45e3dfcc658d2a8d45799c0c5f227bf4dd4a2d92f1d4022e4": {
+      "name": "Cliente 1",
+      "expiry": "2025-12-31",
+      "active": false,
+      "assigned_balance": 0.0
+    },
+    "8aeb59bb926b26448cc2041104fd9f3bd9ab90df9d4abefc7b0d19a6e85ef0855": {
+      "name": "Cliente 2",
+      "expiry": "2025-12-31",
+      "active": false,
+      "assigned_balance": 10.0
+    }
+  },
+  "update": {
+    "version": "1.0.1",
+    "required": false,
+    "notify": false,
+    "url": "https://github.com/Letallirical11/vz/archive/refs/heads/main.zip",
+    "notes": "Nueva versión del VZ Generator con API Numlookupapi y auto-update."
+  }
+}
